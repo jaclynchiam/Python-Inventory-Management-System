@@ -1,0 +1,64 @@
+Supplier ID: S001
+Supplier Name: Trx Trading
+Supplier Contact Number: 010-222-3049
+
+Supplier ID: S003
+Supplier Name: Supplier 3
+Supplier Contact Number: 010-111-1111
+
+Supplier ID: S009
+Supplier Name: ABC Trading
+Supplier Contact Number: 016-543-2234
+
+Supplier ID: S007
+Supplier Name: YX Trading
+Supplier Contact Number: 019-222-3445
+
+Supplier ID: S002
+Supplier Name: Supplier A
+Supplier Contact Number: 010-111-1111
+
+Supplier ID: S005
+Supplier Name: RBC Trading
+Supplier Contact Number: 010-222-2034
+
+Supplier ID: S102
+Supplier Name: YX Trading
+Supplier Contact Number: 010-222-3045
+
+Supplier ID: S103
+Supplier Name: TBC Trading
+Supplier Contact Number: 019-222-333
+
+Supplier ID: S108
+Supplier Name: Suppler 8
+Supplier Contact Number: 010-234-2345
+
+Supplier ID: S106
+Supplier Name: TrB Trading
+Supplier Contact Number: 013-444-3245
+
+Supplier ID: S109
+Supplier Name: Supplier 9
+Supplier Contact Number: 010-234-2345
+
+Supplier ID: S924
+Supplier Name: Supplier X
+Supplier Contact Number: 010-110-1111
+
+Supplier ID: S606
+Supplier Name: TBC Trading
+Supplier Contact Number: 015-333-3333
+
+Supplier ID: S550
+Supplier Name: YX Trading
+Supplier Contact Number: 010-111-1111
+
+Supplier ID: S029
+Supplier Name: Supplier T
+Supplier Contact Number: 010-222-2222
+
+Supplier ID: S030
+Supplier Name: TRB Trading
+Supplier Contact Number: 010-222-3042
+

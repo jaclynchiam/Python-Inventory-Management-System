@@ -1,0 +1,102 @@
+Product ID: P110
+Product Name: Product A
+Product Description: Product A is used for storing information
+Product Price: RM99
+Product Quantity: 63
+
+Product ID: P010
+Product Name: Product G
+Product Description: This is product G.
+Product Price: RM99.0
+Product Quantity: 9
+
+Product ID: P008
+Product Name: Product 8
+Product Description: This is product 8
+Product Price: RM88.0
+Product Quantity: 99
+
+Product ID: P500
+Product Name: Product 5
+Product Description: This is product 5
+Product Price: RM9.0
+Product Quantity: 10
+
+Product ID: P009
+Product Name: Product B
+Product Description: This is product B
+Product Price: RM99.9
+Product Quantity: 90
+
+Product ID: P005
+Product Name: Product 5
+Product Description: This is product 5
+Product Price: RM99.99
+Product Quantity: 120
+
+Product ID: P007
+Product Name: Product 7
+Product Description: This is product 7
+Product Price: RM99.9
+Product Quantity: 90
+
+Product ID: P203
+Product Name: Product B
+Product Description: This is product B
+Product Price: RM55.5
+Product Quantity: 10
+
+Product ID: P104
+Product Name: Product Y
+Product Description: This is product Y
+Product Price: RM99.0
+Product Quantity: 20
+
+Product ID: P001
+Product Name: Product A
+Product Description: This is product A
+Product Price: RM99.0
+Product Quantity: 190
+
+Product ID: P002
+Product Name: Product 2
+Product Description: This is product 2
+Product Price: RM88.88
+Product Quantity: 50
+
+Product ID: P902
+Product Name: P
+Product Description: P
+Product Price: RM22.0
+Product Quantity: 1
+
+Product ID: P029
+Product Name: Product Y
+Product Description: This is product Y
+Product Price: RM99.0
+Product Quantity: 10
+
+Product ID: P204
+Product Name: Product B
+Product Description: This is product B
+Product Price: RM9.0
+Product Quantity: 100
+
+Product ID: P003
+Product Name: Product
+Product Description: Product 3
+Product Price: RM90.0
+Product Quantity: 1
+
+Product ID: P090
+Product Name: Product 7
+Product Description: THis is product 3
+Product Price: RM90.0
+Product Quantity: 1
+
+Product ID: P020
+Product Name: PRO
+Product Description: DES
+Product Price: RM300.0
+Product Quantity: 1
+
